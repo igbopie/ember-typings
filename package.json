@@ -1,9 +1,9 @@
 {
-  "name": "ember-typings",
-  "version": "0.0.1",
+  "name": "ember-typings-nacho",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/typed-ember/ember-typings.git"
+    "url": "git+https://github.com/igbopie/ember-typings.git"
   },
   "license": "MIT",
   "engines": {
